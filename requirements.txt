@@ -5,4 +5,5 @@ pandas
 scikit-learn
 seaborn
 xgboost
+dill
 -e .
